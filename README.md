@@ -10,6 +10,6 @@ Apperçu Tool :
 
 ![Screenshot_1](https://github.com/RicoAlv/Tool-Opti-BlizzyC-V0.9-B-ta-/assets/72954464/2e112905-1eec-4b15-aae7-28ed7fb49123)
 
-L'estétique du tool pouvant étre évolutif dans l'avenir . ⏳
+L'estétique du tool pouvant étre évolutif . ⏳
 
 
